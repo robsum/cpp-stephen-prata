@@ -1,8 +1,7 @@
 #include <iostream>
 #include <string>
 
-typedef std::valarray<int> ArrayInt;
-typedef Pair<ArrayInt, ArrayInt> PairArray;
+
 
 template <class T1, class T2>
 class Pair {
